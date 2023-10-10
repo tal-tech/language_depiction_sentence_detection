@@ -1,0 +1,7 @@
+model/description_model/desc_7_classifier/pytorch_model.bin
+model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin
+touch_depiction_detection/model/nezha_base/model.ckpt-900000.data-00000-of-00001
+touch_depiction_detection/model/description_model/Sense_nezha_base_v2_1.h5
+touch_depiction_detection/model/description_model/desc_7_classifier/pytorch_model.bin
+touch_depiction_detection/model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin
+touch_depiction_detection/.git/objects/pack/pack-26bc7ca3153ef020a1c1275ca9792250a4335717.pack
